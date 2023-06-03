@@ -47,9 +47,7 @@ the limits of which are entered from the keyboard (and output a message about th
 
 The program can be implemented in 2 ways: 
 
-5.1 With the while operator 
-
-5.2 With the for operator.
+With the while operator and with the for operator
 
 ![33](https://github.com/RomanShtoika/Lab_Work_03/assets/135036174/7d29558a-b29b-47d5-ae64-10802a28a189)
 
