@@ -64,3 +64,22 @@ git clone https://github.com/RomanShtoika/Lab_Work_03
 # Results
 
 Task_1: (for and while together) <br>
+
+![1](https://github.com/RomanShtoika/Lab_Work_03/assets/135036174/7a868bde-613d-4da5-bf30-5ee8226bde82)
+
+Task_2: <br>
+
+![2](https://github.com/RomanShtoika/Lab_Work_03/assets/135036174/461fb93f-2d44-4533-a1ef-569a68968a4f)
+
+Task_3: <br>
+
+![3](https://github.com/RomanShtoika/Lab_Work_03/assets/135036174/44955021-ac78-4f58-8efd-a3c15f74f26b)
+
+Task_4: <br>
+
+![4](https://github.com/RomanShtoika/Lab_Work_03/assets/135036174/1506de30-d84e-45ff-9ff8-68387b7923e5)
+
+Task_5: <br>
+
+![5](https://github.com/RomanShtoika/Lab_Work_03/assets/135036174/a8ae183b-7dbc-48dc-988e-3f120ae85623)
+
